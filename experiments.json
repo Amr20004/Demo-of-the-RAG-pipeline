@@ -1,0 +1,1224 @@
+{
+  "question": "Tell me about this artifact, what is it made of and where was it found?",
+  "results": [
+    {
+      "model": "gemma3n-e2b",
+      "time_seconds": 29.8,
+      "ram_delta_mb": 8.43,
+      "gpu_before": {
+        "vram_used_mb": 0,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 0
+      },
+      "gpu_after": {
+        "vram_used_mb": 1405,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 39
+      },
+      "vram_delta_mb": 1405,
+      "response_length": 827,
+      "response": "Welcome! Let me tell you about this incredible artifact – the Mask of Tutankhamun. \n\nThis mask is a masterpiece of ancient Egyptian craftsmanship. It's made of solid gold, inlaid with semi-precious stones like lapis lazuli, carnelian, and obsidian. The mask is approximately 30 centimeters (12 inches) high and weighs around 10 grams. \n\nIt was discovered in the tomb of Pharaoh Tutankhamun in the Valley of the Kings, specifically in the Golden Room. The mask is incredibly significant because it was designed to protect the pharaoh's face in the afterlife. It's a powerful symbol of the pharaoh's divine status and was believed to help him achieve eternal life. The intricate details and the use of precious materials demonstrate the advanced artistry and religious beliefs of the ancient Egyptians. \n\nIsn't it breathtaking? \n"
+    },
+    {
+      "model": "gemma3n-e4b",
+      "time_seconds": 21.1,
+      "ram_delta_mb": -55.23,
+      "gpu_before": {
+        "vram_used_mb": 1405,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 39
+      },
+      "gpu_after": {
+        "vram_used_mb": 2185,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 49
+      },
+      "vram_delta_mb": 780,
+      "response_length": 990,
+      "response": "Welcome! I'm delighted to be your guide today. Let's discuss this remarkable artifact – the Mask of Tutankhamun. \n\nThis iconic mask is crafted from solid gold, inlaid with various stones including lapis lazuli, carnelian, turquoise, and obsidian. It's an exquisite example of ancient Egyptian artistry. \n\nThe Mask of Tutankhamun was discovered in the tomb of the pharaoh Tutankhamun (reign dates 1332-1331 BC) in the Valley of the Kings, Giza, in 1922. It was found within a series of nested coffins, protecting the pharaoh's final resting place. \n\nThe mask is not just a beautiful object; it holds immense historical significance. It represents Tutankhamun's idealized image, intended to ensure his successful passage into the afterlife. It's a powerful symbol of the pharaoh's divine status and the wealth and power of the Egyptian kingdom during the 18th Dynasty. \n\nDo you have any other questions about the Mask of Tutankhamun or perhaps want to know more about Tutankhamun himself?\n\n\n\n"
+    },
+    {
+      "model": "gemma4-e2b",
+      "time_seconds": 24.89,
+      "ram_delta_mb": -190.84,
+      "gpu_before": {
+        "vram_used_mb": 2185,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 49
+      },
+      "gpu_after": {
+        "vram_used_mb": 2021,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 40
+      },
+      "vram_delta_mb": -164,
+      "response_length": 305,
+      "response": "Welcome! You are looking at the magnificent **Mask of Tutankhamun**.\n\nWhile I can tell you that this is one of the most famous artifacts from ancient Egypt, the specific details regarding its exact material composition and where it was found are not detailed in the information I currently have access to."
+    }
+  ]
+}
+
+
+
+
+{
+  "question": "من هو صاحب هذا التمثال وما قصته؟",
+  "results": [
+    {
+      "model": "gemma3n-e2b",
+      "time_seconds": 23.7,
+      "ram_delta_mb": -70.69,
+      "gpu_before": {
+        "vram_used_mb": 0,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 0
+      },
+      "gpu_after": {
+        "vram_used_mb": 1405,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 40
+      },
+      "vram_delta_mb": 1405,
+      "response_length": 607,
+      "response": "أهلاً بك! يسعدني أن أقدم لك شرحًا عن هذا التمثال. هذا التمثال هو لـ الملك أمنحتب الثالث، وهو أحد أقوى وأ أغنى حكام الأسرة الثامنة عشرة. خلال فترة حكمه، قام ببناء وترميم العديد من المعابد والقصور في مصر، كما أن العديد من التماثيل وغيرها من القطع الأثرية من هذه الفترة تظهر مهارة فنية عالية. \n\nهناك أكثر من ألف تمثال بحجم كامل أو أكبر له يعودون إلى فترة حكمه. من المحتمل أن يكون هذا التمثال قد صُنع للاحتفال بأحد جوائزه الملكية. \n\nتمثال من الجرانيت، ويُعتقد أنه من معبد عبادة الموتى الخاص بأمنحتب الثالث في كوم إل-حيتان، طيبة (لوكسور). فترة حكمه تقع بين حوالي 1390 و 1352 قبل الميلاد. \n\nهل لديك أي أسئلة أخرى؟"
+    },
+    {
+      "model": "gemma3n-e4b",
+      "time_seconds": 19.12,
+      "ram_delta_mb": 0.2,
+      "gpu_before": {
+        "vram_used_mb": 1405,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 40
+      },
+      "gpu_after": {
+        "vram_used_mb": 2185,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 43
+      },
+      "vram_delta_mb": 780,
+      "response_length": 629,
+      "response": "أهلاً بك! يسعدني أن أكون مرشدك في المتحف المصري الكبير.\n\nهذا التمثال هو لملك آمينهمون الثالث، أحد أقوى وأغنى حكام الأسرة الثامنة عشر. حكم آمينهمون الثالث في الفترة من حوالي 1390 إلى 1352 قبل الميلاد. يعتبر آمينهمون الثالث من بين ملوك الأسرة الثامنة عشر الأكثر قوة وازدهارًا. قام ببناء أو إعادة بناء العديد من المعابد والقصور في جميع أنحاء البلاد. \n\nيُعتقد أن هذا التمثال قد تم صنعه للاحتفال بإحدى ذكرى الراية الملكية الخاصة به. لقد تم تصنيعه من الجرانيت، ويبلغ ارتفاعه حوالي 1390 إلى 1352 قبل الميلاد. التمثال من معبد آمينهمون الثالث في كوم الheten بمدينة الأقصر. \n\nهل لديك أي أسئلة أخرى حول هذا التمثال أو عن تاريخ مصر القديمة؟\n"
+    },
+    {
+      "model": "gemma4-e2b",
+      "time_seconds": 37.79,
+      "ram_delta_mb": -10.13,
+      "gpu_before": {
+        "vram_used_mb": 2185,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 39
+      },
+      "gpu_after": {
+        "vram_used_mb": 2021,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 37
+      },
+      "vram_delta_mb": -164,
+      "response_length": 948,
+      "response": "أهلاً بك في المتحف المصري الكبير! يسعدني جداً أن أقدم لك معلومات عن هذا التمثال الرائع.\n\nهذا التمثال هو للنقوش الملك **أمنحتب الثالث**، الذي كان أحد أكثر الحكام ثراءً وقوة في **الأسرة الثامنة عشرة (Dynasty 18)**.\n\nإليك بعض التفاصيل حوله:\n\n*   **الفرعون:** كان أمنحتب الثالث ملكاً عظيمًا قام ببناء أو إعادة بناء العديد من المعابد والقصور في البلاد، وتُظهر العديد من المنحوتات والتحف من هذه الفترة مهارة فنية كبيرة.\n*   **العصر والحكم:** حكم خلال فترة **الدولة الحديثة (New Kingdom)**، وتحديداً في عهد أمنحتب الثالث الذي حكم تقريباً من **1390 إلى 1352 قبل الميلاد**.\n*   **المادة والتاريخ:** التمثال مصنوع من **الجرانيت (Granite)**، وقد تم الحصول عليه من **معبد المعبودية الجنائزية لأمنحتب الثالث في كوم الحتان، طيبة (الأقصر)**.\n*   **الأهمية:** يُعتقد أن هذا التمثال ربما قد أُنتج للاحتفال بإحدى مناسبات الاحتفال الملكية (الذكرى السنوية) لهذا الفرعون.\n\nإن فترة حكمه شهدت إنتاج أكثر من ألف تمثال بحجم الحياة وأكبر منها له، مما يؤكد مكانته كحاكم مؤثر."
+    }
+  ]
+}
+
+
+
+
+{
+  "question": "Who is this person and what was his role?",
+  "results": [
+    {
+      "model": "gemma3n-e2b",
+      "time_seconds": 24.92,
+      "ram_delta_mb": -18.02,
+      "gpu_before": {
+        "vram_used_mb": 0,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 0
+      },
+      "gpu_after": {
+        "vram_used_mb": 1405,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 40
+      },
+      "vram_delta_mb": 1405,
+      "response_length": 1059,
+      "response": "Welcome! I'm delighted to be your guide today. Let me tell you about this fascinating artifact. \n\nThis is a depiction of Khaemwaset, who served as the Vizier of the South during the end of Dynasty 20, specifically during the reign of King Ramesses IX. \n\nAs a Vizier, Khaemwaset held a very important role in ancient Egyptian society. He was the chief minister and the highest judge for the southern part of Egypt, based in Karnak. Think of him as the king's closest advisor and the head of the administration. \n\nInterestingly, during the New Kingdom, the role of Vizier was split, with separate positions for Upper and Lower Egypt. Khaemwaset's role was in the South. \n\nThe cord around his neck held a cylinder-shaped seal, which is a fascinating detail! It's likely that the seal held a hidden cylinder, perhaps containing important documents or a personal message. \n\nThe artifact is made of granite and dates back to Dynasty 20, which was found in Karnak. It offers a glimpse into the power and administration of the Egyptian government during that era.\n\n\n\n"
+    },
+    {
+      "model": "gemma3n-e4b",
+      "time_seconds": 17.64,
+      "ram_delta_mb": 0.09,
+      "gpu_before": {
+        "vram_used_mb": 1405,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 25
+      },
+      "gpu_after": {
+        "vram_used_mb": 2185,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 48
+      },
+      "vram_delta_mb": 780,
+      "response_length": 876,
+      "response": "Welcome to the Grand Egyptian Museum! Let's take a closer look at this fascinating individual. \n\nThis is Vizier Khaemwaset. He served as Vizier of the South at the end of Dynasty 20, during the reign of King Ramesses IX. \n\nNow, the role of a Vizier was incredibly important! They were the king's closest advisors and headed the administration of Egypt. During the New Kingdom, this powerful role was often divided, with one Vizier overseeing Upper Egypt (based in Thebes) and another for Lower Egypt (based in Memphis). \n\nInterestingly, you can see a cord around his neck, which would have concealed a cylinder-shaped seal hidden under his robe. This seal was a symbol of his authority and official position. \n\nKhaemwaset's association with Dynasty 20 and the materials used in his representation (Granite from Karnak) further highlight his importance in Egyptian history.\n\n\n\n"
+    },
+    {
+      "model": "gemma4-e2b",
+      "time_seconds": 27.72,
+      "ram_delta_mb": -6.95,
+      "gpu_before": {
+        "vram_used_mb": 2185,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 48
+      },
+      "gpu_after": {
+        "vram_used_mb": 2021,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 35
+      },
+      "vram_delta_mb": -164,
+      "response_length": 428,
+      "response": "That person is Vizier Khaemwaset.\n\nHe held the important role of Vizier of the South at the end of Dynasty 20, during the reign of King Ramesses IX. During the New Kingdom, the role of the Vizier was significant, as these officials were chief ministers and the highest judges for Upper (southern) and Lower (northern) Egypt, based at Thebes and Memphis. They served as the head of administration and the king's closest advisors."
+    }
+  ]
+}
+
+
+
+
+{
+  "question": "أخبرني عن هذه الملكة وما هي إنجازاتها؟",
+  "results": [
+    {
+      "model": "gemma3n-e2b",
+      "time_seconds": 27.27,
+      "ram_delta_mb": 0.17,
+      "gpu_before": {
+        "vram_used_mb": 0,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 0
+      },
+      "gpu_after": {
+        "vram_used_mb": 1405,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 42
+      },
+      "vram_delta_mb": 1405,
+      "response_length": 789,
+      "response": "أهلاً وسهلاً بك! يسعدني أن أخبرك عن هذه الملكة الرائعة، هي الملكة هاتشبسوت. \n\nهاتشبسوت هي ابنة توتمس الأول وزوجة توتمس الثاني. بعد وفاة زوجها، أصبحت ناتحة لزوجها، ثم أصبحت ناتحة لنجله توتمس الثالث. لكنها لم تتوقف عند هذا الحد، بل أصبحت ملكة بنفسها، وهي من غير المألوف في ذلك الوقت.\n\nتعتبر فترة حكمها فترة سلمية، وكانت سياسة الخارجية تركز على التجارة أكثر من الحروب. كما أنها معروفة بصلابتها في بناء معبدها الرائع في دير الـ بحري، والذي يظهر في هذه الصورة. هذا المعبد هو أحد أهم المعالم في مصر القديمة، ويُعتقد أنه يعكس اهتمامها بالآلهة، وخاصةً آمون-رع.\n\nهذه التماثيل الكبيرة التي تراها هي من الجرانيت، وبلغت أبعادها حوالي 10 أمتار. إنها تمثل رمزًا لقوتها وريادتها في فترة تاريخية كانت تسيطر فيها الرجال على السلطة. إنها حقًا من الشخصيات الهامة في تاريخ مصر القديمة.\n\nهل لديك أي أسئلة أخرى؟"
+    },
+    {
+      "model": "gemma3n-e4b",
+      "time_seconds": 17.36,
+      "ram_delta_mb": 0.47,
+      "gpu_before": {
+        "vram_used_mb": 1405,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 42
+      },
+      "gpu_after": {
+        "vram_used_mb": 2185,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 50
+      },
+      "vram_delta_mb": 780,
+      "response_length": 502,
+      "response": "أهلاً بك أيها الزائر الكريم! يسعدني أن أقدم لك معلومات عن هذه الملكة العظيمة، كليوباترا.\n\nهذه الستاتوا هي لملكة حتشبسوت، وهي من الأسرة الثامنة عشر. حكمت حتشبسوت كжена لـ ثوت مؤسي الثالث ثم حكمت كملكة بنفسها. كانت فترة حكمها سلمية، واعتمدت سياسة خارجية مبنية على التجارة بدلاً من الحروب. \n\nتشتهر حتشبسوت ببناء معبدها المقام في دير البحري، والذي يعتبر تحفة معمارية رائعة. كما أنها قامت بزيادة التجارة مع بلاد الشام، مما ساهم في ازدهار مصر في عهدها. \n\nهل لديك أي أسئلة أخرى حول حتشبسوت أو عن هذه الستاتوا؟"
+    },
+    {
+      "model": "gemma4-e2b",
+      "time_seconds": 32.18,
+      "ram_delta_mb": -3.29,
+      "gpu_before": {
+        "vram_used_mb": 2185,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 50
+      },
+      "gpu_after": {
+        "vram_used_mb": 2021,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 40
+      },
+      "vram_delta_mb": -164,
+      "response_length": 534,
+      "response": "أهلاً بك في المتحف! يسعدني أن أقدم لك معلومات عن الملكة حتشبسوت.\n\nلقد كانت حتشبسوت، ابنة تحتمس الأول وزوجة تحتمس الثاني، حاكمة مهمة. كانت تولي رعاية أخيها الملك تحتمس الثالث كوصية، ثم تكللت بالعرش لتصبح حاكمة مشتركة.\n\nكانت فترة حكمها سلمية، وكانت سياستها الخارجية مبنية على التجارة بدلاً من الحروب.\n\nكما أن نحتها كان مميزاً؛ فقد كانت أول من صنع تماثيل ملكية على شكل ركوع بأحجام حقيقية. كما قامت بنحت تماثيل كبيرة تقدم القرابين (أوعية النبوس) للآلهة، إله آمون-رع، على المسار الاحتفالي في معبدها الجنائزي. تنتمي إلى الأسرة الثامنة عشرة."
+    }
+  ]
+}
+
+
+
+{
+  "question": "Which pharaohs from Dynasty 18 are represented in the museum?",
+  "results": [
+    {
+      "model": "gemma3n-e2b",
+      "time_seconds": 25.86,
+      "ram_delta_mb": 119.72,
+      "gpu_before": {
+        "vram_used_mb": 0,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 0
+      },
+      "gpu_after": {
+        "vram_used_mb": 1405,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 36
+      },
+      "vram_delta_mb": 1405,
+      "response_length": 377,
+      "response": "Welcome to the Grand Egyptian Museum! I can certainly help you with that. \n\nBased on the information I have, the statue of Queen Sitiah was dedicated by Pharaoh Thutmose III, who ruled during the 18th Dynasty. So, the 18th Dynasty is represented here. \n\nDo you have any other questions about the pharaohs or artifacts in our collection? I'm happy to share more information!\n\n\n\n"
+    },
+    {
+      "model": "gemma3n-e4b",
+      "time_seconds": 12.96,
+      "ram_delta_mb": 0.48,
+      "gpu_before": {
+        "vram_used_mb": 1405,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 10
+      },
+      "gpu_after": {
+        "vram_used_mb": 2185,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 50
+      },
+      "vram_delta_mb": 780,
+      "response_length": 435,
+      "response": "Welcome to the Grand Egyptian Museum! I'm delighted to guide you through some of our fascinating artifacts.\n\nRegarding your question about pharaohs from Dynasty 18, we have the **Queen Sitiah Statue**. This statue was dedicated by **King Thutmose III**, who reigned during Dynasty 18. It's made of granite and was located in the Montu temple at Tod. \n\nWould you like to know more about King Thutmose III or the Queen Sitiah Statue?\n\n\n\n"
+    },
+    {
+      "model": "gemma4-e2b",
+      "time_seconds": 32,
+      "ram_delta_mb": -6,
+      "gpu_before": {
+        "vram_used_mb": 2185,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 50
+      },
+      "gpu_after": {
+        "vram_used_mb": 2023,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 33
+      },
+      "vram_delta_mb": -162,
+      "response_length": 789,
+      "response": "That is a wonderful question! The artifacts we have here tell us so much about the powerful rulers of ancient Egypt.\n\nBased on the information in our collection, we have an artifact associated with **King Thutmose III** of **Dynasty 18**. Specifically, we have the statue of **Queen Sitiah**. This statue is made of **Granite** and is associated with the **Tod** temple.\n\nFurthermore, the context notes that King Thutmose III had at least three Egyptian wives: Sitiah, Meryetre-Hatshepsut, and Nebtu.\n\nWhile we don't have information about other specific pharaohs from Dynasty 18 in this segment, this statue provides a glimpse into the royal life and the reverence given to the royal family during that era. Do you have any questions about the materials or the significance of this piece?"
+    }
+  ]
+}
+
+
+
+
+// Gemma 4 e2b and q
+
+{
+  "question": "Tell me about this artifact, what is it made of and where was it found?",
+  "results": [
+    {
+      "model": "gemma4-e2b",
+      "time_seconds": 26.94,
+      "ram_delta_mb": 10.54,
+      "gpu_before": {
+        "vram_used_mb": 0,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 0
+      },
+      "gpu_after": {
+        "vram_used_mb": 2021,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 39
+      },
+      "vram_delta_mb": 2021,
+      "response_length": 366,
+      "response": "Welcome! You are looking at a magnificent piece of history. The context provided here refers to the **Mask of Tutankhamun**.\n\nHowever, based only on the specific information I have in my knowledge base right now, I don't have details about what the mask is made of or exactly where it was found. I can tell you that this is a very famous artifact from ancient Egypt!"
+    },
+    {
+      "model": "gemma4-e2b-q4",
+      "time_seconds": 24.4,
+      "ram_delta_mb": -511.78,
+      "gpu_before": {
+        "vram_used_mb": 2021,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 39
+      },
+      "gpu_after": {
+        "vram_used_mb": 2541,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 39
+      },
+      "vram_delta_mb": 520,
+      "response_length": 392,
+      "response": "That is the magnificent Mask of Tutankhamun. As an expert guide here at the Grand Egyptian Museum, I can tell you that while this is a world-famous piece, the specific details regarding what it is made of and exactly where it was found are not detailed in the knowledge base I currently have access to for this specific item. I don't have specific information about that in my knowledge base."
+    }
+  ]
+}
+
+
+
+{
+  "question": "من هو صاحب هذا التمثال وما قصته؟",
+  "results": [
+    {
+      "model": "gemma4-e2b",
+      "time_seconds": 40.4,
+      "ram_delta_mb": -108.77,
+      "gpu_before": {
+        "vram_used_mb": 2541,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 0
+      },
+      "gpu_after": {
+        "vram_used_mb": 2021,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 38
+      },
+      "vram_delta_mb": -520,
+      "response_length": 1033,
+      "response": "أهلاً بك في المتحف المصري الكبير! يسعدني جداً أن أشاركك معلومات عن هذا التمثال الرائع.\n\nهذا التمثال هو **تمثال ملك جالس للملك أمنحتب الثالث**.\n\nأما عن قصته وتفاصيل هذا العمل الفني، فالنص الذي لدينا يوضح ما يلي:\n\n*   **الملك:** أمنحتب الثالث، الذي كان أحد أكثر الحكام ثراءً وقوة في **الأسرة الثامنة عشرة (Dynasty 18)**.\n*   **الفترة الزمنية:** حكم أمنحتب الثالث خلال فترة حكمه في **الدولة الحديثة (New Kingdom)**، وتحديداً بين عامي **1390 و 1352 قبل الميلاد**.\n*   **الأهمية:** اشتهر أمنحتب الثالث ببناء أو إعادة بناء العديد من المعابد والقصور في البلاد، وتُظهر العديد من المنحوتات والتحف من تلك الفترة مهارة فنية عظيمة.\n*   **التمثال تحديداً:** هذا التمثال مصنوع من مادة **الجرانيت (Granite)**، وقد تم العثور عليه في **معبد الطقوس الجنائزية لأمنحتب الثالث في كوم الحتان، طيبة (الأقصر)**.\n*   **الهدف المحتمل:** قد يكون هذا التمثال قد أُنتج للاحتفال بأحد مناسبات الاحتفال السنوية (الجوليات الملكية) التي أقيمت له.\n\nإنه شاهد مادي على عظمة الملك أمنحتب الثالث وإنجازاته في مصر القديمة! هل لديك أي أسئلة أخرى حول الآثار التي نراها اليوم؟"
+    },
+    {
+      "model": "gemma4-e2b-q4",
+      "time_seconds": 36.38,
+      "ram_delta_mb": 0.12,
+      "gpu_before": {
+        "vram_used_mb": 2021,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 38
+      },
+      "gpu_after": {
+        "vram_used_mb": 2541,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 31
+      },
+      "vram_delta_mb": 520,
+      "response_length": 865,
+      "response": "أهلاً بك في المتحف المصري الكبير! يسعدني أن أرشدك إلى هذا العمل الرائع.\n\nهذا التمثال يعود إلى **الملك أمنحتب الثالث**، الذي كان أحد أكثر الحكام ثراءً وقوة في **الأسرة الثامنة عشرة (Dynasty 18)**.\n\n**عن الملك أمنحتب الثالث:**\n*   **الفترة الزمنية:** حكم خلال فترة المملكة الحديثة، وتحديداً من حوالي 1390 إلى 1352 قبل الميلاد.\n*   **الإنجازات:** اشتهر ببناء أو إعادة بناء العديد من المعابد والقصور في البلاد، وتُظهر العديد من المنحوتات والتحف من هذه الفترة مهارة فنية عظيمة.\n\nأما بالنسبة لهذا التمثال تحديداً، فمن الممكن أن يكون قد أُنتج للاحتفال بإحدى مناسباته الملكية. ويُذكر أن هناك أكثر من ألف تمثال بحجم الحياة أو أكبر مخصص له يعود إلى فترة حكمه.\n\nالمادة المصنوع منها هذا التمثال هي **الجرانيت**، وهو مأخوذ من **معبد المعبودية الجنائزية لأمنحتب الثالث في كوم الحتان، طيبة (الأقصر)**. إنه قطعة أثرية تحمل تاريخاً غنياً من تاريخ مصر القديمة! هل لديك أي أسئلة أخرى؟"
+    }
+  ]
+}
+
+
+
+{
+  "question": "Who is this person and what was his role?",
+  "results": [
+    {
+      "model": "gemma4-e2b",
+      "time_seconds": 30.46,
+      "ram_delta_mb": -25.36,
+      "gpu_before": {
+        "vram_used_mb": 0,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 0
+      },
+      "gpu_after": {
+        "vram_used_mb": 2021,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 39
+      },
+      "vram_delta_mb": 2021,
+      "response_length": 575,
+      "response": "That person is Vizier Khaemwaset.\n\nHe held the important position of Vizier of the South at the end of Dynasty 20, during the reign of King Ramesses IX.\n\nDuring the New Kingdom, the role of Vizier was very significant; they were the chief ministers and the highest judges for both Upper (southern) and Lower (northern) Egypt, based at Thebes and Memphis. They served as the head of administration and were the king's closest advisors. Additionally, evidence shows that Khaemwaset had a cylinder-shaped seal held around his neck, hidden beneath his high-waisted vizier's robe."
+    },
+    {
+      "model": "gemma4-e2b-q4",
+      "time_seconds": 28.38,
+      "ram_delta_mb": -25.4,
+      "gpu_before": {
+        "vram_used_mb": 2021,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 39
+      },
+      "gpu_after": {
+        "vram_used_mb": 2541,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 34
+      },
+      "vram_delta_mb": 520,
+      "response_length": 832,
+      "response": "Welcome! I'd be delighted to tell you about this individual based on what we know from our collections.\n\nThe person we are discussing here is **Vizier Khaemwaset**.\n\nHis role was very significant in ancient Egyptian administration. He served as the **Vizier of the South** at the end of Dynasty 20, during the reign of King Ramesses IX.\n\nIt's fascinating to know that during the New Kingdom, the important role of the Vizier was actually split into two positions: they were the chief ministers and the highest judges for Upper (southern) and Lower (northern) Egypt, based in Thebes and Memphis. These officials were the head of administration and the king's closest advisors.\n\nWe also have evidence of his position; a cord visible around his neck held a cylinder-shaped seal, which was hidden beneath his high-waisted vizier's robe."
+    }
+  ]
+}
+
+
+
+{
+  "question": "أخبرني عن هذه الملكة وما هي إنجازاتها؟",
+  "results": [
+    {
+      "model": "gemma4-e2b",
+      "time_seconds": 36.24,
+      "ram_delta_mb": -9.87,
+      "gpu_before": {
+        "vram_used_mb": 2541,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 0
+      },
+      "gpu_after": {
+        "vram_used_mb": 2021,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 39
+      },
+      "vram_delta_mb": -520,
+      "response_length": 889,
+      "response": "أهلاً بك في المتحف! يسعدني أن أقدم لك معلومات عن هذه الملكة العظيمة، حتشبسوت.\n\nلقد كانت حتشبسوت ملكة عظيمة، ولقد كانت أبرز ما نراه هنا هو تمثالها الراكع.\n\nإليك بعض المعلومات الهامة عنها بناءً على ما لدينا:\n\n*   **اللقب والوضع:** كانت حتشبسوت ابنة تحتمس الأول وزوجة تحتمس الثاني.\n*   **المنصب:** أصبحت الوصي (الوصية) على ابن أخيها الملك تحتمس الثالث، ثم تكلت بنفسها ملكة كـحاكم مشترك.\n*   **الإنجازات والسياسة:** تميزت فترة حكمها بالسلام، وكانت سياستها الخارجية مبنية على التجارة بدلاً من الحروب.\n*   **الرمزية الفنية:** كانت نحاتوها من أوائل من صنعوا تماثيل ملكية بأحجام حقيقية (أكثر من حجم الحياة)، وقد تم استخدام هذه التماثيل الكبيرة التي كانت تقدم القرابين (أوعية النبوات) للإله آمون-رع، لتزيين المسار الطقسي في معبدها الجنائزي.\n*   **الانتماء:** تنتمي إلى الأسرة الثامنة عشرة (Dynasty 18).\n\nإنها مثال رائع على القوة والحكمة في مصر القديمة! هل لديك أسئلة أخرى عن أي قطعة أخرى في المتحف؟"
+    },
+    {
+      "model": "gemma4-e2b-q4",
+      "time_seconds": 34.93,
+      "ram_delta_mb": 1.27,
+      "gpu_before": {
+        "vram_used_mb": 2021,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 39
+      },
+      "gpu_after": {
+        "vram_used_mb": 2541,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 36
+      },
+      "vram_delta_mb": 520,
+      "response_length": 683,
+      "response": "أهلاً بك في المتحف المصري الكبير! يسعدني أن أشاركك معلومات عن هذه الملكة العظيمة.\n\nنحن نتحدث هنا عن الملكة حتشبسوت (Hatshepsut).\n\nلقد كانت حتشبسوت ابنة تحتمس الأول وزوجة تحتمس الثاني. وقد أصبحت وصية لابن عمها الملك تحتمس الثالث، ثم تكلت بالتاج لتصبح ملكة مشتركة.\n\nأبرز إنجازاتها كانت في فترة حكمها التي اتسمت بالسلام، حيث كانت سياستها الخارجية قائمة على التجارة بدلاً من الحروب.\n\nكما أننا نرى في هذا السياق تمثالاً ملكياً جاثماً، حيث كانت النحاتون قد صنعوا له تماثيل بأحجام حقيقية لأول مرة. وكانت تخصص تمثالاً يقدم القرابين (أواني النب) للإله آمون-رع في الممر الاحتفالي في معبدها الجنائزي.\n\nتنتمي حتشبسوت إلى الأسرة الثامنة عشرة (Dynasty 18)، ويُعرف موقعها في موقعها في الدير البحري."
+    }
+  ]
+}
+
+
+
+// after optimization
+{
+  "question": "Tell me about this artifact, what is it made of and where was it found?",
+  "results": [
+    {
+      "model": "gemma3n-e2b",
+      "time_seconds": 37.47,
+      "ram_delta_mb": 11.99,
+      "gpu_before": {
+        "vram_used_mb": 0,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 0
+      },
+      "gpu_after": {
+        "vram_used_mb": 1349,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 35
+      },
+      "vram_delta_mb": 1349,
+      "response_length": 1002,
+      "response": "Welcome! This magnificent artifact is the Mask of Tutankhamun. It's truly a remarkable piece of ancient Egyptian history. \n\nIt's crafted from a stunning array of materials – gold, lapis lazuli, carnelian, obsidian, turquoise, and glass paste.  The mask itself measures 54 cm in width and 39.3 cm in length. \n\nThe mask dates back to the New Kingdom, specifically from Dynasty 19. It was discovered in the tomb of Tutankhamun, who reigned during the 18th Dynasty, from approximately 1332 to 1323 BC. \n\nThe Mask of Tutankhamun is incredibly significant because it's one of the best-preserved examples of a pharaoh's funerary mask. It was designed to protect the pharaoh's face in the afterlife and was believed to help him achieve eternal life. The intricate details and the use of precious materials like gold and lapis lazuli demonstrate the wealth and power of the pharaoh and the advanced craftsmanship of the ancient Egyptians. \n\nIt's a truly breathtaking testament to their artistry and beliefs!\n\n\n\n"
+    },
+    {
+      "model": "gemma3n-e4b",
+      "time_seconds": 27.24,
+      "ram_delta_mb": -4.8,
+      "gpu_before": {
+        "vram_used_mb": 1349,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 35
+      },
+      "gpu_after": {
+        "vram_used_mb": 2145,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 47
+      },
+      "vram_delta_mb": 796,
+      "response_length": 1115,
+      "response": "Welcome! Allow me to tell you about this magnificent artifact. \n\nThis is the iconic Mask of Tutankhamun! It is crafted from a stunning array of materials, including gold, lapis lazuli, carnelian, obsidian, turquoise, and glass paste. Can you imagine the skill and artistry required to create such a detailed piece using these materials?\n\nThe mask measures 54 cm in width and 39.3 cm in length. It dates back to the New Kingdom, specifically Dynasty 19, and was discovered in the tomb of the boy pharaoh Tutankhamun. This tomb, KV62, was located in the Valley of the Kings on the west bank of the Nile, near Luxor, Egypt. \n\nThe discovery of Tutankhamun's tomb in 1922 by Howard Carter was a pivotal moment in Egyptology. It provided an unparalleled glimpse into the burial practices and treasures of the 18th Dynasty. The mask, in particular, is renowned for its exquisite beauty and its representation of the young pharaoh, who reigned from approximately 1332 to 1323 BC. It was intended to protect Tutankhamun's face in the afterlife, ensuring his successful passage into the next world. \n\nIsn't it breathtaking? \n"
+    },
+    {
+      "model": "gemma4-e2b",
+      "time_seconds": 36.82,
+      "ram_delta_mb": -232.23,
+      "gpu_before": {
+        "vram_used_mb": 2145,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 47
+      },
+      "gpu_after": {
+        "vram_used_mb": 1981,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 36
+      },
+      "vram_delta_mb": -164,
+      "response_length": 726,
+      "response": "Welcome! You are looking at an incredibly significant piece—the Mask of Tutankhamun.\n\nThis magnificent artifact dates back to the **New Kingdom**, specifically during **Dynasty 19**. It holds immense historical significance as it is the funerary mask of the famous Pharaoh Tutankhamun.\n\nWhen we examine the materials used, we see the incredible artistry involved. This mask is crafted from precious materials, including **gold**, along with beautiful stones such as **lapis lazuli**, **carnelian**, **obsidian**, **turquoise**, and **glass paste**.\n\nIn terms of dimensions, this piece measures **54 cm in width** and **39.3 cm in length**. It is a testament to the wealth and artistry of the Egyptian civilization of that era."
+    },
+    {
+      "model": "gemma4-e2b-q4",
+      "time_seconds": 31.86,
+      "ram_delta_mb": -1.22,
+      "gpu_before": {
+        "vram_used_mb": 1981,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 36
+      },
+      "gpu_after": {
+        "vram_used_mb": 1389,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 38
+      },
+      "vram_delta_mb": -592,
+      "response_length": 558,
+      "response": "Welcome! You are looking at a magnificent piece from the New Kingdom, specifically from Dynasty 19. This incredible artifact is the **Mask of Tutankhamun**.\n\nAs for what it is made of, it is crafted from a rich combination of precious materials, including **gold**, **lapis lazuli**, **carnelian**, **obsidian**, **turquoise**, and **glass paste**.\n\nWhile the context doesn't specify the exact excavation site, this piece is historically significant as it belongs to the New Kingdom period. It is a treasure that reflects the artistry and wealth of that era!"
+    }
+  ]
+}
+
+
+
+
+{
+  "question": "من هو صاحب هذا التمثال وما قصته؟",
+  "results": [
+    {
+      "model": "gemma3n-e2b",
+      "time_seconds": 34.69,
+      "ram_delta_mb": -63.64,
+      "gpu_before": {
+        "vram_used_mb": 1389,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 0
+      },
+      "gpu_after": {
+        "vram_used_mb": 1349,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 32
+      },
+      "vram_delta_mb": -40,
+      "response_length": 742,
+      "response": "أهلاً وسهلاً بك في المتحف المصري الكبير! يسعدني أن أقدم لك معلومات عن هذا التمثال الرائع.\n\nهذا التمثال هو نسخة من الملك أمنحتب الثالث، وهو أحد أقوى وأغنى حكام الأسرة الثامنة عشرة (Dynasty 18) في مصر القديمة. حكم أمنحتب الثالث بين عامي 1390 و 1352 قبل الميلاد. \n\nتمثال هذا الملك مصنوع من الجرانيت، ويبلغ ارتفاعه حوالي 2.5 مترًا.  تم العثور عليه في معبد أمنحتب الثالث، وهو معبد جنائزي يقع في كوم إل-حتان، بالقرب من لوكسور. \n\nيعتبر أمنحتب الثالث من أبرز الملوك الذين قاموا ببناء ترميمات وتوسعات كبيرة للمعابد والقصور في جميع أنحاء مصر.  وتظهر العديد من التماثيل والقطع الأثرية من عصره مهارة فنية عالية.  يوجد أكثر من ألف تمثال ضخم وحجمه أكبر من الحياة يصور الملك أمنحتب الثالث، وربما تم صنعه للاحتفال بأحد جوائزه الملكية.\n\nهل لديك أي أسئلة أخرى؟"
+    },
+    {
+      "model": "gemma3n-e4b",
+      "time_seconds": 24.03,
+      "ram_delta_mb": -305.64,
+      "gpu_before": {
+        "vram_used_mb": 1349,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 32
+      },
+      "gpu_after": {
+        "vram_used_mb": 2145,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 51
+      },
+      "vram_delta_mb": 796,
+      "response_length": 636,
+      "response": "أهلاً بك! يسعدني أن أكون مرشدك في المتحف المصري الكبير. هذا التمثال هو لملك آمينهمون الثالث، وهو أحد أقوى وأغنى حكام الأسرة الثامنة عشر. حكم من عام 1390 إلى 1352 قبل الميلاد.\n\nتمثال آمينهمون الثالث هذا مصنوع من الجرانيت، وقد تم اكتشافه من معبد العبادة بعد الموت في كوم الheten في طيبة (الأقصر). يعتقد أن هذا التمثال قد تم صنعه للاحتفال بأحد الأعياد الملكية الخاصة به. \n\nخلال فترة حكمه، قام آمينهمون الثالث ببناء أو إعادة بناء العديد من المعابد والقصور في جميع أنحاء البلاد. وتظهر العديد من المنحوتات والأشياء الأثرية من هذه الفترة مهارة فنية رائعة. يوجد أكثر من 1000 تمثال له، بعضها بالحجم الطبيعي وبعضها أكبر. \n\nهل لديك أي أسئلة أخرى؟\n"
+    },
+    {
+      "model": "gemma4-e2b",
+      "time_seconds": 37.68,
+      "ram_delta_mb": -159.8,
+      "gpu_before": {
+        "vram_used_mb": 2145,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 48
+      },
+      "gpu_after": {
+        "vram_used_mb": 1979,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 38
+      },
+      "vram_delta_mb": -166,
+      "response_length": 455,
+      "response": "يا له من سؤال رائع! يسعدني أن أشاركك قصة هذا التمثال المذهل.\n\nهذا التمثال هو **تمثال ملك جالس للملك أمنحتب الثالث**.\n\n**قصة التمثال وأهميته:**\n\n*   **الفرعون:** التمثال يمثل الفرعون العظيم **أمنحتب الثالث**، الذي كان أحد أكثر الحكام ثراءً وقوة في عصر الدولة الحديثة.\n*   **العصر والأسرة:** ينتمي الملك أمنحتب الثالث إلى **الأسرة الثامنة عشرة (Dynasty 18)** من عصر **الدولة الحديثة (New Kingdom)**.\n*   **فترة الحكم:** حكم أمنحتب الثالث تقريباً من عام **13"
+    },
+    {
+      "model": "gemma4-e2b-q4",
+      "time_seconds": 31.97,
+      "ram_delta_mb": 0.29,
+      "gpu_before": {
+        "vram_used_mb": 1979,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 0
+      },
+      "gpu_after": {
+        "vram_used_mb": 1389,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 41
+      },
+      "vram_delta_mb": -590,
+      "response_length": 327,
+      "response": "أهلاً بك في المتحف المصري الكبير! يسعدني أن أشاركك قصة هذا التمثال الرائع.\n\nهذا التمثال هو **تمثال ملك أمنحتب الثالث** (Seated Statue of King Amenhotep III).\n\n**قصة التمثال وأهميته:**\n\n*   **الفرعون:** التمثال يمثل الفرعون العظيم **أمنحتب الثالث**، الذي كان أحد أكثر الحكام ثراءً وقوة في **الأسرة الثامنة عشرة** (Dynasty 18).\n*"
+    }
+  ]
+}
+
+
+{
+  "question": "Who is this person and what was his role?",
+  "results": [
+    {
+      "model": "gemma3n-e2b",
+      "time_seconds": 35.99,
+      "ram_delta_mb": -16.78,
+      "gpu_before": {
+        "vram_used_mb": 1389,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 0
+      },
+      "gpu_after": {
+        "vram_used_mb": 1349,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 36
+      },
+      "vram_delta_mb": -40,
+      "response_length": 937,
+      "response": "Welcome! Let me tell you about this fascinating artifact. This is a statue of Khaemwaset, a very important vizier from the New Kingdom, specifically during Dynasty 20. \n\nViziers held a crucial role in ancient Egyptian society. They were the chief ministers and highest judges for both Upper and Lower Egypt, with their headquarters in Thebes and Memphis. Think of them as the king's closest advisors and the heads of the administration – they were responsible for running the country!\n\nThe statue is made of granite and was found at Karnak. The cord around his neck holds a cylinder-shaped seal hidden under his robe. It's a beautiful example of the power and importance of the vizier position during that era. \n\nKhaemwaset served as the Vizier of the South at the end of Dynasty 20, during the reign of King Ramesses IX. It's a remarkable piece of history that gives us insight into the complex political structure of ancient Egypt.\n\n\n\n"
+    },
+    {
+      "model": "gemma3n-e4b",
+      "time_seconds": 21.56,
+      "ram_delta_mb": 0.31,
+      "gpu_before": {
+        "vram_used_mb": 1349,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 36
+      },
+      "gpu_after": {
+        "vram_used_mb": 2145,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 47
+      },
+      "vram_delta_mb": 796,
+      "response_length": 1204,
+      "response": "Welcome to the Grand Egyptian Museum! I'm thrilled to be your guide today. \n\nLet's examine this fascinating artifact. This is a piece of granite associated with **Khaemwaset**, who served as Vizier of the South during the late period of **Dynasty 20**. \n\nNow, the role of a Vizier was incredibly important in ancient Egypt. During the New Kingdom, the Vizier's responsibilities were divided, with one overseeing Upper Egypt (based in Thebes) and the other overseeing Lower Egypt (based in Memphis).  Viziers were essentially the king's chief ministers and highest judges, responsible for the administration of the kingdom and advising the pharaoh. \n\nThis piece of granite, found at Karnak, highlights the power and influence of Khaemwaset during the reign of **King Ramesses IX**. The cord you see around the neck of the granite piece would have held a cylinder-shaped seal, hidden under his robe. This seal would have been used to authenticate documents and signify his authority. \n\nDynasty 20 is a significant period in Egyptian history, marking a transition towards the later New Kingdom era. It's a testament to the sophisticated administration and power structures that existed in ancient Egypt.\n\n\n\n"
+    },
+    {
+      "model": "gemma4-e2b",
+      "time_seconds": 30.27,
+      "ram_delta_mb": -14.95,
+      "gpu_before": {
+        "vram_used_mb": 2145,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 40
+      },
+      "gpu_after": {
+        "vram_used_mb": 1981,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 40
+      },
+      "vram_delta_mb": -164,
+      "response_length": 311,
+      "response": "That is a wonderful question! We are looking at an artifact associated with the historical role of a Vizier.\n\nThis piece relates to **Vizier Khaemwaset**. He held a very important administrative role in ancient Egypt. During the New Kingdom, the role of the Vizier was split into two positions: Viziers were the"
+    },
+    {
+      "model": "gemma4-e2b-q4",
+      "time_seconds": 27.16,
+      "ram_delta_mb": 1.19,
+      "gpu_before": {
+        "vram_used_mb": 1981,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 27
+      },
+      "gpu_after": {
+        "vram_used_mb": 1387,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 39
+      },
+      "vram_delta_mb": -594,
+      "response_length": 523,
+      "response": "Welcome! I'd be delighted to tell you about this remarkable piece we are looking at.\n\nThis artifact relates to **Vizier Khaemwaset**, who served during **Dynasty 20**.\n\nHis role was very significant during the New Kingdom. During this period, the important role of the Vizier was split into two positions: Viziers acted as both chief ministers and the highest judges for Upper (southern) and Lower (northern) Egypt, based at Thebes and Memphis. They served as the head of administration and were the king's closest advisors"
+    }
+  ]
+}
+
+
+{
+  "question": "أخبرني عن هذه الملكة وما هي إنجازاتها؟",
+  "results": [
+    {
+      "model": "gemma3n-e2b",
+      "time_seconds": 28.58,
+      "ram_delta_mb": -0.68,
+      "gpu_before": {
+        "vram_used_mb": 1387,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 0
+      },
+      "gpu_after": {
+        "vram_used_mb": 1349,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 33
+      },
+      "vram_delta_mb": -38,
+      "response_length": 841,
+      "response": "أهلاً وسهلاً بك! يسعدني أن أخبرك عن هذه القائمة الرائعة. هذه هي تمثال جليدي لملكة Hatshepsut، وهي من فترة الديكاتورة الثامنة. \n\nتمثالها مصنوع من الجرانيت، ويبلغ ارتفاعه حوالي 10 أمتار. كانت Hatshepsut هي أول من صمموا هذه التماثيل بأحجام كاملة، على عكس ما كان يتم صنعه في فترات سابقة. \n\nأنت تعرف أنها كانت ابنة Thutmose I وزوجة Thutmose II، وأصبحت الوصية على عمه Thutmose III عندما أصبح ملكًا. ثم أصبحت ملكة بنفسها، وهي فترة حكمها كانت سلمية وتركز على التجارة أكثر من الحروب. \n\nلقد قامت Hatshepsut ببناء معبدها في Deir el-Bahri، وهو معبد ضخم يضم العديد من الأعمدة والمنحوتات. كان هذا المعبد بمثابة مكان لتقديم القرابين إلى إله Amun-Re، وكان يقع على طول الطريق الرئيسي في طقوسها الجنائزية. \n\nإنها حقًا إنجازات عظيمة، وتُظهر قوة إرادتها وقدرتها على حكم مصر كملكة. إنها رمز قوي لمرونة المرأة في السلطة، ولتاريخ مصر الغني. هل لديك أي أسئلة أخرى؟\n"
+    },
+    {
+      "model": "gemma3n-e4b",
+      "time_seconds": 22.53,
+      "ram_delta_mb": 0.37,
+      "gpu_before": {
+        "vram_used_mb": 1349,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 33
+      },
+      "gpu_after": {
+        "vram_used_mb": 2145,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 43
+      },
+      "vram_delta_mb": 796,
+      "response_length": 745,
+      "response": "أهلاً بك! يسعدني أن أقدم لك معلومات عن هذه الملكة العظيمة، الملكة حتشبسوت.\n\nهذه تمثال للملكة حتشبسوت، وهو مصنوع من الجرانيت. على الرغم من أن التماثيل الملكية القنوعة كانت تُنتج منذ الأسرة الثامنة، إلا أن نحّات حتشبسوت هم الأوائل الذين قاموا بصنعها بأحجام أكبر من الحياة. \n\nكانت حتشبسوت ابنة ثutmose الأول وزوجة ثutmose الثاني، وأصبحت مديرة للبلاد لابن عمها الملك ثutmose الثالث. لاحقًا، أصبحت ملكة حكمت كملكة بنفسها كشريك للملك. كانت فترة حكمها سلمية، وكانت سياستها الخارجية تعتمد على التجارة بدلاً من الحروب.\n\nتمثالها كان جزءًا من ممر مسيرة في معبدها للموت في دير البحري، حيث كانت تقدم الأواني المقدسة للإله آمون-رع.  دير البحري هو موقع تاريخي مهم، حيث يقع معبدها الرائع الذي يمثل قمة الهندسة المعمارية المصرية القديمة.\n\nهل لديك أي أسئلة أخرى؟\n"
+    },
+    {
+      "model": "gemma4-e2b",
+      "time_seconds": 30.56,
+      "ram_delta_mb": -3.52,
+      "gpu_before": {
+        "vram_used_mb": 2145,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 0
+      },
+      "gpu_after": {
+        "vram_used_mb": 1981,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 37
+      },
+      "vram_delta_mb": -164,
+      "response_length": 420,
+      "response": "أهلاً بك في المتحف المصري الكبير! يسعدني أن أشاركك معلومات عن هذه الملكة العظيمة.\n\nما تشير إليه هنا هو تمثال الملكة حتشبسوت، وهي ملكة من الأسرة الثامنة عشرة (Dynasty 18).\n\n**إنجازاتها وأهميتها:**\n\nلقد كانت حتشبسوت زوجة تحتمس الثاني، وكانت والدة تحتمس الثالث. اشتهرت حكمها بالسلام والازدهار، حيث كانت سياستها الخارجية ترتكز على التجارة بدلاً من الحروب. كما أنها أصبحت ملكة بالتبني وحكمت كحاكمة مشتركة.\n\nأحد أبرز إنجازاتها"
+    },
+    {
+      "model": "gemma4-e2b-q4",
+      "time_seconds": 27.32,
+      "ram_delta_mb": 0.31,
+      "gpu_before": {
+        "vram_used_mb": 1981,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 30
+      },
+      "gpu_after": {
+        "vram_used_mb": 1389,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 36
+      },
+      "vram_delta_mb": -592,
+      "response_length": 275,
+      "response": "أهلاً بك في المتحف المصري الكبير! يسعدني أن أشاركك معلومات عن هذه الملكة العظيمة.\n\nنحن نتحدث هنا عن **الملكة حتشبسوت**، التي حكمت مصر في عصر الدولة الحديثة.\n\nلقد تم نحت هذه التماثيل من مادة **الجرانيت**، وهي تُعرض في موقع **دير البحر** (Deir el-Bahri).\n\nمن الناحية التاريخية،"
+    }
+  ]
+}
+
+
+{
+  "question": "Which pharaohs from Dynasty 18 are represented in the museum?",
+  "results": [
+    {
+      "model": "gemma3n-e2b",
+      "time_seconds": 29.81,
+      "ram_delta_mb": 111.62,
+      "gpu_before": {
+        "vram_used_mb": 0,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 0
+      },
+      "gpu_after": {
+        "vram_used_mb": 1363,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 27
+      },
+      "vram_delta_mb": 1363,
+      "response_length": 771,
+      "response": "Welcome to the Grand Egyptian Museum! You're in luck, as we have several fascinating statues from the 18th Dynasty, a truly remarkable period in Egyptian history. \n\nWe have a beautiful granite statue of Queen Sitia, who was the wife of Pharaoh Thutmose III. He dedicated it to her in the Montu temple at Tod. This statue offers a glimpse into the cult of the royal family, where some royals were deified after death and played a role in the lives of the people. \n\nAlso on display is a collection of colossal royal heads made of sandstone, dating back to the 18th Dynasty. These heads likely belonged to a series of statues that stood in a temple court at Karnak. \n\nI hope this gives you a good overview of the pharaohs represented from the 18th Dynasty in our museum!\n\n\n\n"
+    },
+    {
+      "model": "gemma3n-e4b",
+      "time_seconds": 19.87,
+      "ram_delta_mb": 1.33,
+      "gpu_before": {
+        "vram_used_mb": 1363,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 27
+      },
+      "gpu_after": {
+        "vram_used_mb": 2145,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 44
+      },
+      "vram_delta_mb": 782,
+      "response_length": 874,
+      "response": "Welcome to the Grand Egyptian Museum! It's wonderful you're interested in the pharaohs of Dynasty 18.\n\nWe have a fascinating statue of Queen Sitiah, dedicated by King Thutmose III.  Thutmose III was a powerful pharaoh of Dynasty 18, and this statue highlights the practice of deifying royalty – a belief that some royals became gods after death, playing a role in the lives of the local population.  \n\nWe also have Colossal Royal Heads from Karnak Temple, made of sandstone. These likely belonged to a series of statues honoring early New Kingdom rulers during Dynasty 18. \n\nAnd of course, we have the statue of Queen Sitiah, dedicated by King Thutmose III.  It's a beautiful example of the artistry of the time. \n\nWould you like to know more about the cult of the royal family during Dynasty 18, or perhaps about the significance of the materials used in these statues?\n\n\n\n"
+    },
+    {
+      "model": "gemma4-e2b",
+      "time_seconds": 31.66,
+      "ram_delta_mb": -11,
+      "gpu_before": {
+        "vram_used_mb": 2145,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 0
+      },
+      "gpu_after": {
+        "vram_used_mb": 1979,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 39
+      },
+      "vram_delta_mb": -166,
+      "response_length": 0,
+      "response": ""
+    },
+    {
+      "model": "gemma4-e2b-q4",
+      "time_seconds": 28.03,
+      "ram_delta_mb": 0.44,
+      "gpu_before": {
+        "vram_used_mb": 1979,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 20
+      },
+      "gpu_after": {
+        "vram_used_mb": 1389,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 38
+      },
+      "vram_delta_mb": -590,
+      "response_length": 268,
+      "response": "Welcome to the Grand Egyptian Museum! I'd be delighted to tell you about the treasures from Dynasty 18 that we have here.\n\nOur collection offers fascinating glimpses into the royal history of this period. For instance, we have artifacts made of **Granite** found at **"
+    }
+  ]
+}
+
+
+{
+  "question": "Tell me about the role of high priests in ancient Egypt",
+  "results": [
+    {
+      "model": "gemma3n-e2b",
+      "time_seconds": 28.56,
+      "ram_delta_mb": 0.88,
+      "gpu_before": {
+        "vram_used_mb": 1389,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 0
+      },
+      "gpu_after": {
+        "vram_used_mb": 1363,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 34
+      },
+      "vram_delta_mb": -26,
+      "response_length": 1278,
+      "response": "Certainly! Let's delve into the role of high priests in ancient Egypt.\n\nThe role of high priest was both powerful and influential. The high priests of Amun at Thabes controlled huge treasuries and estates. By the end of the New Kingdom they controlled Upper Egypt, with some even using the title of king. \n\nSpecifically, we see an example of this at Karnak, where Paser, son of High Priest Nebnetjeru Tjenroy, spent many years as Vizier of the South. He eventually \"retired\" to the same post that his father had held, as High Priest of Amun. This demonstrates the continuity and importance of the high priesthood. \n\nThe high priests were highly revered and played a crucial role in religious and political life. They were responsible for overseeing the temples, conducting rituals, and ensuring the proper worship of the gods. Their power extended to controlling vast resources and influencing the king's decisions. \n\nThe statue of Queen Sitiah at Tod, made of granite during Dynasty 18, is a testament to the cult of the royal family. Like other gods, deified royals had their own rituals and festivals, and their statues were often dedicated in temples like Montu at Tod. \n\nI hope this gives you a better understanding of the significance of high priests in ancient Egypt!\n\n\n\n"
+    },
+    {
+      "model": "gemma3n-e4b",
+      "time_seconds": 20.78,
+      "ram_delta_mb": 0.76,
+      "gpu_before": {
+        "vram_used_mb": 1363,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 34
+      },
+      "gpu_after": {
+        "vram_used_mb": 2145,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 47
+      },
+      "vram_delta_mb": 782,
+      "response_length": 1031,
+      "response": "Certainly! Let me tell you about the role of high priests in ancient Egypt.\n\nAccording to the provided information, the role of high priest was both powerful and influential. The high priests of Amun at Thebes controlled huge treasuries and estates. By the end of the New Kingdom, they controlled Upper Egypt, with some even using the title of king.\n\nWe can see an example of this in the case of High Priest Paser, son of High Priest Nebnetjeru Tjenroy. Paser spent many years as Vizier of the South before eventually \"retiring\" to the same post that his father had held – High Priest of Amun at Karnak. \n\nThe information also mentions that some royals and a few private people were made into gods after their deaths, playing a role in the lives of local populations. Like other gods, deified royals had their own rituals and festivals. This practice is associated with Dynasty 18, and the cult of the Royal Family.\n\nWould you like to know more about any of these individuals or aspects of ancient Egyptian religious practices?\n\n\n\n"
+    },
+    {
+      "model": "gemma4-e2b",
+      "time_seconds": 29.89,
+      "ram_delta_mb": -6.91,
+      "gpu_before": {
+        "vram_used_mb": 2145,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 40
+      },
+      "gpu_after": {
+        "vram_used_mb": 1981,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 35
+      },
+      "vram_delta_mb": -164,
+      "response_length": 551,
+      "response": "That is a fascinating question! The role of the high priests in ancient Egypt was incredibly powerful and influential.\n\nAccording to what we know, the high priests were not just religious figures; they held significant administrative and political authority. Specifically, the high priests of Amun at Thebes controlled huge treasuries and estates. Furthermore, by the end of the New Kingdom, these high priests controlled Upper Egypt, and some of them even used the title of king! They were central figures in the religious and economic life of Egypt."
+    },
+    {
+      "model": "gemma4-e2b-q4",
+      "time_seconds": 25.87,
+      "ram_delta_mb": 0.8,
+      "gpu_before": {
+        "vram_used_mb": 1981,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 35
+      },
+      "gpu_after": {
+        "vram_used_mb": 1389,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 39
+      },
+      "vram_delta_mb": -592,
+      "response_length": 710,
+      "response": "That is a fascinating question! The role of the high priests in ancient Egypt was incredibly powerful and influential.\n\nFor example, we can look at the historical context provided in our collection. In Dynasty 19, we find information about a figure named High Priest Paser, who spent many years as the Vizier of the South before eventually retiring to the post of High Priest of Amun at Karnak.\n\nThe context tells us that the High Priests of Amun at Thebes controlled huge treasuries and estates. Furthermore, by the end of the New Kingdom, these high priests controlled Upper Egypt, with some even using the title of king. This shows how deeply intertwined religious and political power were in ancient Egypt."
+    }
+  ]
+}
+
+
+// final experimentation
+
+{
+  "question": "Tell me about this artifact, what is it made of and where was it found?",
+  "results": [
+    {
+      "model": "gemma3n-e4b",
+      "time_seconds": 21.48,
+      "ram_delta_mb": 10.73,
+      "gpu_before": {
+        "vram_used_mb": 0,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 0
+      },
+      "gpu_after": {
+        "vram_used_mb": 2145,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 52
+      },
+      "vram_delta_mb": 2145,
+      "response_length": 853,
+      "response": "Welcome! Let me tell you about this magnificent artifact. This is the iconic Mask of Tutankhamun! \n\nIt is crafted from a stunning array of materials – primarily gold, beautifully accented with lapis lazuli, carnelian, obsidian, turquoise, and even glass paste. Can you imagine the skill required to create such a detailed and vibrant piece?\n\nThe mask measures 54 cm in width and 39.3 cm in length. It dates back to the New Kingdom, specifically Dynasty 19. This dynasty reigned from approximately 1292 to 1189 BC. \n\nThe Mask of Tutankhamun was discovered in the tomb of the boy pharaoh Tutankhamun (reigned 1332-1323 BC) in the Valley of the Kings, on the west bank of the Nile, near Luxor, Egypt. It was a crucial part of his burial rituals, designed to ensure his safe passage into the afterlife. It’s a truly remarkable piece of Egyptian history!\n\n\n\n"
+    },
+    {
+      "model": "gemma4-e2b-q4",
+      "time_seconds": 25.59,
+      "ram_delta_mb": 1.05,
+      "gpu_before": {
+        "vram_used_mb": 2145,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 52
+      },
+      "gpu_after": {
+        "vram_used_mb": 1389,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 39
+      },
+      "vram_delta_mb": -756,
+      "response_length": 791,
+      "response": "Welcome! You are looking at an incredible piece of history here at the Grand Egyptian Museum. We are currently looking at the magnificent **Mask of Tutankhamun**.\n\nThis artifact is renowned for its exquisite craftsmanship. It is made from a rich combination of precious materials, including **gold**, **lapis lazuli**, **carnelian**, **obsidian**, **turquoise**, and **glass paste**.\n\nHistorically, this mask dates back to the **New Kingdom**, specifically during **Dynasty 19**. It is an object of immense historical significance, representing the wealth and artistry of that powerful era.\n\nJust for your reference regarding its dimensions, the mask measures approximately **54 cm in width** and **39.3 cm in length**. It is a treasure that tells us so much about ancient Egyptian artistry!"
+    }
+  ]
+}
+
+
+{
+  "question": "من هو صاحب هذا التمثال وما قصته؟",
+  "results": [
+    {
+      "model": "gemma3n-e4b",
+      "time_seconds": 20.27,
+      "ram_delta_mb": -0.47,
+      "gpu_before": {
+        "vram_used_mb": 1389,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 0
+      },
+      "gpu_after": {
+        "vram_used_mb": 2145,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 46
+      },
+      "vram_delta_mb": 756,
+      "response_length": 691,
+      "response": "أهلاً وسهلاً بك في المتحف المصري الكبير! يسعدني أن أكون مرشدك اليوم.\n\nهذا التمثال هو لملك آمينحتب الثالث، وهو أحد أقوى وأغنى حكام الأسرة الثامنة عشر. حكم من عام 1390 إلى 1352 قبل الميلاد.  تمثال آمينحتب الثالث هذا مصنوع من الجرانيت، وهو مادة قوية ومتينة.\n\nتم العثور على هذا التمثال من معبد العمارنة، تحديداً من معبد العمارنة في كوم الheten في مدينة الأقصر.  يُعتقد أنه تم صنعه للاحتفال بأحد الأعياد الملكية الخاصة بآمينحتب الثالث.  خلال فترة حكمه، قام ببناء أو إعادة بناء العديد من المعابد والقصور في جميع أنحاء البلاد، وتظهر العديد من المنحوتات والأشياء الأثرية من هذه الفترة مهارة فنية رائعة.  تم العثور على أكثر من 1000 تمثال له، بعضها بالحجم الطبيعي وبعضها أكبر.\n\nهل لديك أي أسئلة أخرى؟\n"
+    },
+    {
+      "model": "gemma4-e2b-q4",
+      "time_seconds": 35.05,
+      "ram_delta_mb": -32.03,
+      "gpu_before": {
+        "vram_used_mb": 2145,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 46
+      },
+      "gpu_after": {
+        "vram_used_mb": 1389,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 34
+      },
+      "vram_delta_mb": -756,
+      "response_length": 977,
+      "response": "أهلاً بك في المتحف المصري الكبير! يسعدني أن أشاركك معلومات عن هذا التمثال الرائع.\n\nهذا التمثال هو **تمثال ملك أمنحتب الثالث** (Seated Statue of King Amenhotep III).\n\n**قصته وأهميته:**\n\n*   **الفترة التاريخية:** يعود هذا التمثال إلى عصر **الدولة الحديثة**، وتحديداً إلى فترة حكم الفرعون **أمنحتب الثالث**، الذي حكم خلال فترة حكمه من حوالي **1390 إلى 1352 قبل الميلاد**.\n*   **المنشأ والموقع:** تم العثور على هذا التمثال في **معبد المجمع الجنائزي لأمنحتب الثالث**، الواقع في **كوم الحتين، طيبة (الأقصر)**.\n*   **المادة:** التمثال مصنوع من مادة **الجرانيت**.\n*   **الأهمية:** كان أمنحتب الثالث أحد أكثر الحكام ثراءً وقوة في **الدولة الثامنة عشرة** (Dynasty 18). لقد قام ببناء وإعادة بناء العديد من المعابد والقصور في البلاد، وتُظهر العديد من المنحوتات والتحف من هذه الفترة مهارة فنية عظيمة. هناك أكثر من ألف تمثال له بأحجام مختلفة يعود إلى فترة حكمه. قد يكون هذا التمثال قد أُنتج للاحتفال بأحد مناسباته الملكية.\n\nأتمنى أن تكون هذه المعلومات قد أثرت اهتمامك! هل لديك أي أسئلة أخرى؟"
+    }
+  ]
+}
+
+{
+  "question": "Who is this person and what was his role?",
+  "results": [
+    {
+      "model": "gemma3n-e4b",
+      "time_seconds": 21.69,
+      "ram_delta_mb": -29.13,
+      "gpu_before": {
+        "vram_used_mb": 1389,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 0
+      },
+      "gpu_after": {
+        "vram_used_mb": 2145,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 47
+      },
+      "vram_delta_mb": 756,
+      "response_length": 1289,
+      "response": "Welcome to the Grand Egyptian Museum! Let's take a closer look at this fascinating artifact. \n\nThis is a piece associated with **Khaemwaset**, who served as Vizier of the South during the late Dynasty 20, specifically during the reign of King Ramesses IX. \n\nNow, the role of a Vizier was incredibly important in ancient Egypt. During the New Kingdom, which Dynasty 20 belongs to, the Vizier's responsibilities were divided. They were essentially the king's closest advisors and headed the administration for both Upper and Lower Egypt, with their headquarters in Thebes and Memphis. Think of them as the chief minister and highest judge!\n\nYou can see a cord around the neck of the statue, which would have held a cylinder-shaped seal hidden under his robe. This seal would have been used to authenticate documents and official decrees. \n\nThis particular piece is made of **granite**, a very durable material often used for important monuments and statues. It originates from **Karnak**, a site famous for its temples and complex religious structures. \n\nIsn't it incredible to think about the power and influence this individual held in ancient Egyptian society? It really gives us a glimpse into the workings of the pharaoh's administration during a pivotal period in Egyptian history!\n\n\n\n"
+    },
+    {
+      "model": "gemma4-e2b-q4",
+      "time_seconds": 26.37,
+      "ram_delta_mb": 0.05,
+      "gpu_before": {
+        "vram_used_mb": 2145,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 47
+      },
+      "gpu_after": {
+        "vram_used_mb": 1389,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 40
+      },
+      "vram_delta_mb": -756,
+      "response_length": 948,
+      "response": "Welcome! I'd be delighted to tell you about this remarkable piece we are looking at.\n\nThis artifact is associated with **Vizier Khaemwaset**, who served a very important role in ancient Egypt.\n\nThis piece is made of **Granite** and was found at **Karnak**.\n\nHistorically, Khaemwaset was the **Vizier of the South** at the end of **Dynasty 20**, during the reign of **King Ramesses IX**.\n\nDuring the New Kingdom, the role of the Vizier was quite significant; it was split into two positions. Viziers acted as chief ministers and the highest judges for Upper (southern) and Lower (northern) Egypt, based in Thebes and Memphis. They served as the head of administration and were considered the king's closest advisors.\n\nNotice the detail here: the cord visible around his neck held a cylinder-shaped seal, which was hidden under his high-waisted vizier's robe. This object highlights the administrative and judicial power held by these high officials."
+    }
+  ]
+}
+
+{
+  "question": "أخبرني عن هذه الملكة وما هي إنجازاتها؟",
+  "results": [
+    {
+      "model": "gemma3n-e4b",
+      "time_seconds": 20.84,
+      "ram_delta_mb": -31.81,
+      "gpu_before": {
+        "vram_used_mb": 1389,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 0
+      },
+      "gpu_after": {
+        "vram_used_mb": 2145,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 47
+      },
+      "vram_delta_mb": 756,
+      "response_length": 712,
+      "response": "أهلاً بك! يسعدني أن أقدم لك معلومات عن هذه الملكة العظيمة، الملكة حتشبسوت.\n\nهذه التماثيل، المصنوعة من الجرانيت الصلب، هي من فترة الأسرة الثامنة عشر. على الرغم من أن تماثيل ملوك الكنيسة كانت تُنتج منذ عصر الدولة القديمة، إلا أن نحّات حتشبسوت هم من قاموا بإنتاجها بأحجام أكبر من الحياة. \n\nتشتهر الملكة حتشبسوت بأنها حكمت مصر كملكة، بعد أن كانت تتولى منصب الوصية لابن عمها، الملك توت مosis الثالث. لقد كانت فترة حكمها سلمية، واعتمدت على التجارة بدلاً من الحروب في سياساتها الخارجية. \n\nلقد كانت ابنة الملك توت مosis الأول وزوجة الملك توت مosis الثاني.  كما أنها لعبت دوراً هاماً في بناء معبدها الذي يقع في دير البحري، والذي كان يضم صفوفاً من التماثيل التي تقدم الأواني المقدسة لإله آمون رع. \n\nهل لديك أي أسئلة أخرى؟\n"
+    },
+    {
+      "model": "gemma4-e2b-q4",
+      "time_seconds": 33.55,
+      "ram_delta_mb": -31.9,
+      "gpu_before": {
+        "vram_used_mb": 2145,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 36
+      },
+      "gpu_after": {
+        "vram_used_mb": 1387,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 39
+      },
+      "vram_delta_mb": -758,
+      "response_length": 850,
+      "response": "أهلاً بك في المتحف المصري الكبير! يسعدني أن أشاركك معلومات عن هذه الملكة العظيمة.\n\nنحن نتحدث هنا عن **الملكة حتشبسوت**، التي حكمت مصر في عصر الدولة الحديثة.\n\nلقد تم إنشاء هذه التماثيل الملكية، وتحديداً تمثال حتشبسوت الركوع، من مادة **الجرانيت**. هذه التماثيل كانت تُصنع منذ عصر الدولة القديمة، ولكن نحت حتشبسوت كان يمثل خطوة متقدمة، حيث كانت نحاتوها أول من صنع مثل هذه التماثيل بأحجام شبه حقيقية.\n\nتم العثور على هذه الأعمال في موقع **دير البحر** (Deir el-Bahri).\n\nتكمن أهمية هذه التماثيل في أنها كانت تقدم القرابين للإله **آمون-رع**، وكانت تُرص في المسار الاحتفالي داخل معبدها الجنائزي.\n\nأما عن حتشبسوت نفسها، فهي ابنة تحتمس الأول وزوجة تحتمس الثاني. لقد أصبحت الوصي على شقيقها توت عنخ آمون، ثم تكلت بالعرش لتصبح حاكمة مشتركة. تميزت فترة حكمها بالسلام، وكانت سياستها الخارجية ترتكز على التجارة بدلاً من الحروب. كانت تنتمي إلى **الدولة الثامنة عشرة**."
+    }
+  ]
+}
+
+
+{
+  "question": "Which pharaohs from Dynasty 18 are represented in the museum?",
+  "results": [
+    {
+      "model": "gemma3n-e4b",
+      "time_seconds": 23.25,
+      "ram_delta_mb": -75.28,
+      "gpu_before": {
+        "vram_used_mb": 1387,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 0
+      },
+      "gpu_after": {
+        "vram_used_mb": 2145,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 48
+      },
+      "vram_delta_mb": 758,
+      "response_length": 1000,
+      "response": "Welcome to the Grand Egyptian Museum! It's wonderful you're interested in the pharaohs of Dynasty 18.\n\nWe have a fascinating statue of Queen Sitiah from Dynasty 18. This statue, made of granite, was dedicated in the Montu temple at Tod by King Thutmose III, who had her as one of his wives. It highlights the practice of the cult of the royal family, where some royals were deified after death and played a role in the lives of the local population. \n\nWe also have colossal royal heads made of sandstone, also from Dynasty 18, found at Karnak Temple. These heads likely belonged to a series of statues that once stood in a temple court. \n\nSo, to answer your question directly, we have representations of **Queen Sitiah** and **King Thutmose III** (through the dedication of Sitiah's statue) and **King Ramesses II** (represented in the statue group with Osiris and Merenptah). \n\nWould you like to know more about any of these items, or perhaps explore the cult of the royal family in more detail?\n\n\n\n"
+    },
+    {
+      "model": "gemma4-e2b-q4",
+      "time_seconds": 32.01,
+      "ram_delta_mb": 0.53,
+      "gpu_before": {
+        "vram_used_mb": 2145,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 48
+      },
+      "gpu_after": {
+        "vram_used_mb": 1389,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 33
+      },
+      "vram_delta_mb": -756,
+      "response_length": 1139,
+      "response": "Welcome to the Grand Egyptian Museum! I'd be delighted to tell you about some of the magnificent artifacts from Dynasty 18 that we have here.\n\nOur collection highlights the rich history of this era. For instance, we have artifacts made of **Granite** found at **Tod**, which relates to **Dynasty 18**. This material is associated with the **Cult of the Royal Family**, where some royals and private individuals were deified after their deaths, playing a significant role in the lives of the local populations, and they had their own rituals and festivals.\n\nSpecifically, we have a statue of **Queen Sitiah** found at **Tod**. This statue is significant because King Thutmose III dedicated it to her, as he had at least three Egyptian wives, including Sitiah, Meryetre-Hatshepsut, and Nebtu, among others.\n\nFurthermore, we have **Sandstone** artifacts from **Karnak**, dating to **Dynasty 18**. Here, we find the **Colossal Royal Heads** of early New Kingdom rulers, which were likely part of a series of statues in a temple court.\n\nThese pieces allow us to connect directly with the powerful rulers and the religious practices of the time!"
+    }
+  ]
+}
+
+{
+  "question": "Tell me about the role of high priests in ancient Egypt",
+  "results": [
+    {
+      "model": "gemma3n-e4b",
+      "time_seconds": 16.75,
+      "ram_delta_mb": 2.6,
+      "gpu_before": {
+        "vram_used_mb": 1389,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 0
+      },
+      "gpu_after": {
+        "vram_used_mb": 2145,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 49
+      },
+      "vram_delta_mb": 756,
+      "response_length": 702,
+      "response": "Certainly! Let me tell you about the role of high priests in ancient Egypt.\n\nHigh priests held a very powerful and influential position. They controlled huge treasuries and estates. By the end of the New Kingdom, they controlled Upper Egypt, with some even using the title of king. \n\nWe can see an example of this at Karnak, where we have the statue of High Priest Paser, son of High Priest Nebnetjeru Tjenroy. Paser spent many years as Vizier of the South before eventually \"retiring\" to the same post his father had held – High Priest of Amun at Karnak. \n\nThe role of high priest was similar to that of other gods, with rituals and festivals held in their honor. \n\nDoes that answer your question?\n\n\n\n"
+    },
+    {
+      "model": "gemma4-e2b-q4",
+      "time_seconds": 30.57,
+      "ram_delta_mb": 0.15,
+      "gpu_before": {
+        "vram_used_mb": 2145,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 49
+      },
+      "gpu_after": {
+        "vram_used_mb": 1387,
+        "vram_total_mb": 4096,
+        "gpu_util_percent": 39
+      },
+      "vram_delta_mb": -758,
+      "response_length": 1028,
+      "response": "Welcome! I would be delighted to tell you about the powerful role of the High Priests in ancient Egypt.\n\nThe role of the high priests was incredibly influential, especially concerning religious and administrative power. For example, we see this reflected in the context of the **Ramesside Period** (Dynasties 19 and 20), which was a time of massive construction projects and significant political shifts.\n\nIn the context of the priesthood, we see examples of this influence in the area of **Karnak**, where we find information about figures like the **High Priest Paser**, who spent time as Vizier of the South before holding the position of High Priest of Amun at Karnak.\n\nThe high priests of Amun at Thebes held immense authority: they controlled huge treasuries and estates. By the end of the New Kingdom, these high priests effectively controlled Upper Egypt, and some even used the title of king!\n\nThis demonstrates how deeply intertwined religious authority was with political and economic administration in ancient Egypt."
+    }
+  ]
+}
